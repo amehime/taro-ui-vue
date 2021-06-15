@@ -5,6 +5,7 @@
       "packages/*"
     ]
   },
+  "private": true,
   "scripts": {
     "publish": "lerna publish --conventional-commits"
   },

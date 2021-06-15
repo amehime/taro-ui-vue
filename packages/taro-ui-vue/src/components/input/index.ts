@@ -86,6 +86,10 @@ const AtInput = {
       type: String,
       default: '',
     },
+    confirmHold: {
+      type: Boolean,
+      default: false,
+    },
     cursor: {
       type: [String, Number],
       default: 0,
